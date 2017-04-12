@@ -4,10 +4,10 @@
 			<h1>Bem vindo(a) à Campos Maia</h1>
 		</header>
 		<div class="content">
-			<p>A responsive site template designed by HTML5 UP<br />
-			and released under the Creative Commons.</p>
+			<p>Advocacia com conhecimento, técnica e<br />
+			comprometimento ao seu alcance.</p>
 			<ul class="actions">
-				<li><a href="#one" class="button next scrolly">Get Started</a></li>
+				<li><a href="#one" class="button next scrolly">Conheça</a></li>
 			</ul>
 		</div>
 	</div>

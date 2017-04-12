@@ -3,7 +3,7 @@
 		<section>
 			<form method="post" action="#">
 				<div class="field half first">
-					<label for="name">Name</label>
+					<label for="name">Nome</label>
 					<input type="text" name="name" id="name" />
 				</div>
 				<div class="field half">
@@ -11,11 +11,11 @@
 					<input type="text" name="email" id="email" />
 				</div>
 				<div class="field">
-					<label for="message">Message</label>
+					<label for="message">Mensagem</label>
 					<textarea name="message" id="message" rows="6"></textarea>
 				</div>
 				<ul class="actions">
-					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="submit" value="Enviar Mensagem" class="special" /></li>
 					<li><input type="reset" value="Clear" /></li>
 				</ul>
 			</form>
@@ -25,23 +25,23 @@
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
 					<h3>Email</h3>
-					<a href="#">information@untitled.tld</a>
+					<a href="#">contato@camposmaia.com</a>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>(000) 000-0000 x12387</span>
+					<h3>Telefone</h3>
+					<span>(000) 00000-0000</span>
 				</div>
 			</section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>1234 Somewhere Road #5432<br />
-					Nashville, TN 00000<br />
-					United States of America</span>
+					<h3>Endereço</h3>
+					<span>Rua do Alguma Coisa<br />
+					Centro<br />
+					Brasil</span>
 				</div>
 			</section>
 		</section>

@@ -8,7 +8,7 @@
 			<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
 		</ul>
 		<ul class="copyright">
-			<li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+			<li>&copy; Campos Maia</li><li>Criação e Manutenção: <a href="http://viladosite.com.br">Vila do Site</a></li>
 		</ul>
 	</div>
 </footer>
