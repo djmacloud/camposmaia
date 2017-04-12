@@ -1,43 +1,52 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-	<?php include 'includes/head.php'; ?>
+		<?php include 'includes/head.php'; ?>
 	</head>
+
 	<body>
 
 		<!-- Wrapper -->
 			<div id="wrapper">
 
-			<?php 
+				<!-- Header -->
+				<?php include 'includes/header.php'; ?>
 
-				// Header
-				include 'includes/header.php';
+				<!-- Menu -->
+				<nav id="menu">
+					<?php include 'includes/menu.php'; ?>
+				</nav>
 
-				// Menu
-				include 'includes/menu.php';
-
-				// Banner
-				include 'includes/banner.php';
-
-			?>
+				<!-- Banner -->
+				<section id="banner" class="major">
+					<?php include 'includes/banner.php'; ?>
+				</section>
 
 
 				<!-- Main -->
 					<div id="main">
 
 						<!-- One -->
-						<?php include 'includes/index_1.php'; ?>
+						<section id="one" class="tiles">
+							<?php include 'includes/index_1.php'; ?>
+						</section>
 
 						<!-- Two -->
-						<?php include 'includes/index_2.php'; ?>
+						<section id="two">
+							<?php include 'includes/index_2.php'; ?>
+						</section>
 
 					</div>
 
 				<!-- Contact -->
-				<?php include 'includes/contact.php'; ?>
+				<section id="contact">
+					<?php include 'includes/contact.php'; ?>
+				</section>
 
 				<!-- Footer -->
-				<?php include 'includes/footer.php'; ?>
+				<footer id="footer">
+					<?php include 'includes/footer.php'; ?>
+				</footer>
 
 			</div>
 
