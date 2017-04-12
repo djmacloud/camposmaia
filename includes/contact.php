@@ -16,7 +16,7 @@
 				</div>
 				<ul class="actions">
 					<li><input type="submit" value="Enviar Mensagem" class="special" /></li>
-					<li><input type="reset" value="Clear" /></li>
+					<li><input type="reset" value="Apagar" /></li>
 				</ul>
 			</form>
 		</section>
