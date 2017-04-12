@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+		<title>Campos Maia Advocacia</title>
 		<?php include 'includes/head.php'; ?>
 	</head>
 
@@ -10,43 +11,37 @@
 			<div id="wrapper">
 
 				<!-- Header -->
+				<a name="header"/>
 				<?php include 'includes/header.php'; ?>
 
 				<!-- Menu -->
-				<nav id="menu">
-					<?php include 'includes/menu.php'; ?>
-				</nav>
+				<?php include 'includes/menu.php'; ?>
 
 				<!-- Banner -->
-				<section id="banner" class="major">
-					<?php include 'includes/banner.php'; ?>
-				</section>
+				<a name="banner"/>
+				<?php include 'includes/banner.php'; ?>
 
 
 				<!-- Main -->
 					<div id="main">
 
 						<!-- One -->
-						<section id="one" class="tiles">
-							<?php include 'includes/index_1.php'; ?>
-						</section>
+						<a name="one"/>
+						<?php include 'includes/index_1.php'; ?>
 
 						<!-- Two -->
-						<section id="two">
-							<?php include 'includes/index_2.php'; ?>
-						</section>
+						<a name="two"/>
+						<?php include 'includes/index_2.php'; ?>
 
 					</div>
 
 				<!-- Contact -->
-				<section id="contact">
-					<?php include 'includes/contact.php'; ?>
-				</section>
+				<a name="contact"/>
+				<?php include 'includes/contact.php'; ?>
 
 				<!-- Footer -->
-				<footer id="footer">
-					<?php include 'includes/footer.php'; ?>
-				</footer>
+				<a name="footer"/>
+				<?php include 'includes/footer.php'; ?>
 
 			</div>
 
