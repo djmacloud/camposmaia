@@ -14,7 +14,7 @@
 				include 'includes/header.php';
 
 				// Menu
-				include 'menu/banner.php';
+				include 'includes/menu.php';
 
 				// Banner
 				include 'includes/banner.php';
